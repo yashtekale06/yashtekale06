@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashtekale06&label=Profile%20views&color=0e75b6&style=flat" alt="yashtekale06" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@yashtekale" target="blank"><img src="https://img.shields.io/twitter/follow/@yashtekale?logo=twitter&style=for-the-badge" alt="@yashtekale" /></a> </p>
+<p align="left"> <a href="https://twitter.com" target="blank"><img src="https://img.shields.io/twitter/follow/@yashtekale?logo=twitter&style=for-the-badge" alt="@yashtekale" /></a> </p>
 
 - 🌱 I’m currently learning **DSA And full Stack and AI Ml**
 
