@@ -2,15 +2,13 @@
 <h1 align="center">Hi 👋, I'm Yash Tekale</h1>
 <h3 align="center">I’m currently pursuing BE in E&TC at PES Modern Pune</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yashtekale06&label=Profile%20views&color=0e75b6&style=flat" alt="yashtekale06" />
-</p>
-
-<p align="left"> 
-   <a href="https://twitter.com/yashtekale" target="blank">
-      <img src="https://img.shields.io/twitter/follow/yashtekale?logo=twitter&style=for-the-badge" alt="yashtekale" />
-   </a> 
+<p align="left">
+    <a href="https://github.com/yashtekale06" target="blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
+    </a>
+    <a href="https://twitter.com/yashtekale" target="blank" style="margin-left: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30">
+    </a>
 </p>
 
 - 🌱 I’m currently learning **DSA And full Stack and AI ML**
