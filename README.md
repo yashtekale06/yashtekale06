@@ -1,72 +1,86 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmSn1-17-IBHy2xOK72fpmu9twZgA_txtRr_IevitFfmlpnR25FzgUbVvgavzASaQvY80P4B1ITl8dIblFpLKkg3V2iywtoBtH7zAiS1XAJmsz8gJDZv9Aa9B4wOQbeN7g0Gq2jQydirnAhf9_anHYNl8lY8TSpejmQ8akw04HlRvyyzr7o1uOL0C9ZQ/s16000/header_1.png" alt="Braydon's GitHub Banner" style="max-width: 100%;">
-<h1 align="center">Hi 👋, I'm Yash Tekale</h1>
-<h3 align="center">I’m currently pursuing BE in E&TC at PES Modern Pune</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
-<p align="left">
-    <a href="https://github.com/yashtekale06" target="blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
-    </a>
-    <a href="https://twitter.com/yashtekale" target="blank" style="margin-left: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30">
-    </a>
+<!-- Dark Mode Banner -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e3c72&height=160&section=header&text=Yash%20Tekale&fontSize=50&fontAlignY=20&fontColor=ffffff&animation=fadeIn&desc=Electronics%20%7C%20Embedded%20%7C%20Full-Stack%20%7C%20AI-ML&descAlignY=50&descAlign=50"/>
+<a href="https://github.com/yashtekale06">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Electronics+%26+Telecommunication+Engineer;Embedded+Systems+Developer;Full+Stack+Learner;AI+%7C+ML+Enthusiast;" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+## 👨‍💻 About Me  
+- 🎓 BE in **Electronics & Telecommunication (E&TC)** at PES Modern, Pune  
+- 🌱 Currently learning **DSA | Full Stack | AI & ML**  
+- 💡 Passionate about **Embedded Systems & IoT**  
+- 📂 Explore my work 👉 [GitHub Profile](https://github.com/yashtekale06)  
+- 💬 Ask me about **Embedded Systems, IoT & ML**  
+- 📧 Reach me at **tekaleyash16@gmail.com**
+---
+
+## 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,git,github,vscode,arduino,tensorflow,opencv,matlab,pandas&theme=dark" />
 </p>
 
-- 🌱 I’m currently learning **DSA And full Stack and AI ML**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashtekale06](https://github.com/yashtekale06)
+## 📊 GitHub Stats & Activity  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashtekale06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashtekale06&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
+</div>
 
-- 💬 Ask me about **Embedded System**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashtekale06&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" height="160"/>
+</div>
 
-- 📫 How to reach me **tekaleyash16@gmail.com**
+---
+## 🚀 Contribution Activity  
+<p align="center">
+ <img src="https://ghchart.rshah.org/000000/yashtekale06" width="800" />
+</p>
 
-<h3 align="left">📚 Check My DSA Journey:</h3>
-<p align="left">
-   <a href="https://www.geeksforgeeks.org/user/user_w1128ep9t7u/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_w1128ep9t7u" height="30" width="40" />
+<!-- Heatmap style (like GitHub contributions) -->
+<p align="center">
+<img src="https://github-contribution-stats.vercel.app/api/?username=yashtekale06&theme=github-dark&hide_border=true#gh-dark-mode-only" />
+ 
+</p>
+
+
+
+---
+
+## 📚 DSA Journey  
+<p align="center">
+   <a href="https://www.geeksforgeeks.org/user/user_w1128ep9t7u/">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=00C853"/>
    </a>
 </p>
 
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center" style="width: 700px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
-</p>
+---
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashtekale06&show_icons=true&locale=en&layout=compact" alt="yashtekale06" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtekale06&show_icons=true&locale=en" alt="yashtekale06" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashtekale06" alt="GitHub Streak Stats" /></p>
-</div>
-
-<h2 align="center">Contact With Me</h2>
+## 🌐 Connect With Me  
 <div align="center">
   <a href="https://instagram.com/yashtekale.03" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashtekale.03" height="30" width="40" />
   </a>
+    
   <a href="https://twitter.com/yashtekale" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashtekale" height="30" width="40" />
   </a>
+    
   <a href="https://linkedin.com/in/yash-tekale-6157ba246" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yash Tekale LinkedIn" height="30" width="40" />
   </a>
+    
   <a href="mailto:tekaleyash16@gmail.com" target="_blank">
     <img align="center" src="https://i.pinimg.com/736x/a1/d1/4b/a1d14ba7881740c8c3e428a75132a2ae.jpg" alt="tekaleyash16@gmail.com" height="30" width="40" />
   </a>
 </div>
 
+---
+
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:000000&height=100&section=footer&fontColor=ffffff"/>
 </p>
