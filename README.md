@@ -36,17 +36,10 @@
 
 ---
 ## 🚀 Contribution Activity  
-<p align="center">
- <img src="https://ghchart.rshah.org/000000/yashtekale06" width="800" />
-</p>
-
 <!-- Heatmap style (like GitHub contributions) -->
 <p align="center">
 <img src="https://github-contribution-stats.vercel.app/api/?username=yashtekale06&theme=github-dark&hide_border=true#gh-dark-mode-only" />
- 
 </p>
-
-
 
 ---
 
@@ -69,7 +62,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashtekale" height="30" width="40" />
   </a>
     
-  <a href="https://linkedin.com/in/yash-tekale-6157ba246" target="blank">
+  <a href="https://linkedin.com/in/yash_tekale_6157ba246" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yash Tekale LinkedIn" height="30" width="40" />
   </a>
     
