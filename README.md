@@ -5,14 +5,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Electronics+%26+Telecommunication+Engineer;Embedded+Systems+Developer;AI+%7C+ML+Enthusiast;" alt="Typing SVG" />
   </a>
 </div>
+
 ---
+
 ## 👨‍💻 About Me  
 - 🎓 BE in **Electronics & Telecommunication (E&TC)** at PES Modern, Pune  
-- 🌱 Currently learning **DSA | Full Stack | AI & ML**  
+- 🌱 Currently learning **DSA Using  C++ | AI & ML**  
 - 💡 Passionate about **Embedded Systems & IoT**  
 - 📂 Explore my work 👉 [GitHub Profile](https://github.com/yashtekale06)  
 - 💬 Ask me about **Embedded Systems, IoT & ML**  
 - 📧 Reach me at **tekaleyash16@gmail.com**
+
 ---
 
 ## 🛠️ Languages & Tools  
@@ -61,10 +64,10 @@
   </a>
     
   <a href="https://linkedin.com/in/yash_tekale_6157ba246" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yash Tekale LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yash Tekale LinkedIn" height="30" width="40"/>
   </a>
     
-  <a href="mailto:tekaleyash16@gmail.com" target="_blank">
+  <a href="mailto:tekaleyash16@gmail.com" target="blank">
     <img align="center" src="https://i.pinimg.com/736x/a1/d1/4b/a1d14ba7881740c8c3e428a75132a2ae.jpg" alt="tekaleyash16@gmail.com" height="30" width="40" />
   </a>
 </div>
