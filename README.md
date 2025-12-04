@@ -2,12 +2,10 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e3c72&height=160&section=header&text=Yash%20Tekale&fontSize=50&fontAlignY=20&fontColor=ffffff&animation=fadeIn&desc=Electronics%20%7C%20Embedded%20%7C%20Full-Stack%20%7C%20AI-ML&descAlignY=50&descAlign=50"/>
 <a href="https://github.com/yashtekale06">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Electronics+%26+Telecommunication+Engineer;Embedded+Systems+Developer;Full+Stack+Learner;AI+%7C+ML+Enthusiast;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Electronics+%26+Telecommunication+Engineer;Embedded+Systems+Developer;AI+%7C+ML+Enthusiast;" alt="Typing SVG" />
   </a>
 </div>
-
 ---
-
 ## 👨‍💻 About Me  
 - 🎓 BE in **Electronics & Telecommunication (E&TC)** at PES Modern, Pune  
 - 🌱 Currently learning **DSA | Full Stack | AI & ML**  
